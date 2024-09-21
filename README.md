@@ -29,9 +29,11 @@ To Ensure That Your Telegram Environment variables `.env`
 - `PORT`: The PORT you have set. This is used `3000`.
 
 
+## Stickers change?
 - If you want to change sticker id then change in this file 📋 [stickers.js](https://github.com/SudoR2spr/Auto-sticker-Tg-Bot/blob/master/stickers.js)
 
 - Generate Telegram Sticker ID from Link here 🤖 [Get Telegram Sticker ID](https://t.me/idstickerbot)
+
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/angel-op/Sticker-bot.jpg" target="_blank">
