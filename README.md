@@ -18,18 +18,20 @@
 
 ## Deploy Tutorial
 
-- <b>Watch Video Tutorial - [Click Here](https://youtube.com/@woodcraft5/videos)</b>
+- <b>Watch Video Tutorial 🖥️ [Click Here](https://youtube.com/@woodcraft5/videos)</b>
 
 ## 🛠 Configuring Environments
 
 To Ensure That Your Telegram Environment variables `.env`
 
-- `BOT_TOKEN`: This is your bot's token, which you can generate from [BotFather](https://t.me/BotFather).
+- `BOT_TOKEN`: This is your bot's token, which you can generate from 🤖 [BotFather](https://t.me/BotFather).
 - `WEBHOOK_URL`: This is your `https://your_server_url.com`
 - `PORT`: The PORT you have set. This is used `3000`.
 
 
+- If you want to change sticker id then change in this file 📋 [stickers.js](https://github.com/SudoR2spr/Auto-sticker-Tg-Bot/blob/master/stickers.js)
 
+- Generate Telegram Sticker ID from Link here 🤖 [Get Telegram Sticker ID](https://t.me/idstickerbot)
 
 <p align="center">
   <a href="https://raw.githubusercontent.com/SudoR2spr/SudoR2spr/main/assets/angel-op/Sticker-bot.jpg" target="_blank">
